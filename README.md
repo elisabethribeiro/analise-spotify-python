@@ -1,8 +1,8 @@
 # 🎧 Análise de Popularidade de Músicas no Spotify
 
 ## 📌 Sobre o projeto
-Este projeto tem como objetivo analisar dados de músicas do Spotify para entender quais gêneros são mais e menos populares e quais características podem influenciar essa popularidade.
-
+Este projeto foi desenvolvido como projeto final apresentado no Ciclo Formativo Intermediário 15 da PretaLab.
+Tem como objetivo analisar dados de músicas do Spotify para entender quais gêneros são mais e menos populares e quais características podem estar associadas à popularidade observada.
 A análise foi feita utilizando Python, com foco em exploração de dados, visualização e interpretação dos resultados.
 
 ---
@@ -74,7 +74,7 @@ Identificar:
 
 ## 🔍 Principais insights
 
-- Gêneros mais populares tendem a ser mais **dançantes e energéticos**
+- Os gêneros mais populares apresentaram, em média, maiores valores de **danceability e energy**.
 - Gêneros menos populares apresentam maior **acousticness**
 - A maioria das músicas possui baixa popularidade
 - A duração média das músicas é de aproximadamente **3.8 minutos**
@@ -84,17 +84,14 @@ Identificar:
 
 ## 💡 Conclusão
 
-Os dados indicam que músicas mais animadas e com maior energia tendem a ser mais populares no Spotify.
-Por outro lado, gêneros mais específicos e com características mais acústicas parecem atingir um público menor dentro da plataforma.
+Os resultados indicam uma associação entre maiores níveis médios de danceability e energy e gêneros com maior popularidade observada.
+Da mesma forma, gêneros com maior acousticness apresentaram, em média, menor popularidade no conjunto analisado.
+Como se trata de uma análise exploratória, os resultados permitem identificar padrões e associações nos dados, sem estabelecer relações causais.
 
 ---
 
 ## ⚠️ Limitações
 
-- Não foi analisado como o Spotify calcula a popularidade
-- O dataset pode não representar todos os gêneros de forma equilibrada
-
-
-## 👩🏽‍💻 Autora
-Elisabeth Aparecida Ribeiro  
-Estudante em transição de carreira para a área de dados
+- Não foi analisado como o Spotify calcula a popularidade  
+- O dataset pode não representar todos os gêneros de forma equilibrada  
+- A análise identifica associações entre variáveis, mas não permite inferir causalidade
