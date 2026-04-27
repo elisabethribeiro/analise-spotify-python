@@ -1,4 +1,11 @@
 # 🎧 Análise de Popularidade de Músicas no Spotify
+---
+##  Acesse o projeto
+<a href="https://colab.research.google.com/github/elisabethribeiro/analise-spotify-python/blob/main/Projeto_Final_Spotify.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+---
 
 ## 📌 Sobre o projeto
 Este projeto foi desenvolvido como projeto final apresentado no Ciclo Formativo Intermediário 15 da PretaLab.
